@@ -5,7 +5,7 @@
 This Project includes-
 <br> <br>
 <ul>
-<li> Data Cleaning, Data Visualization and Data Analysis of a Covid19_cases Dataset from Kaggle.com 
+<li> Data Cleaning, Data Visualization and Data Analysis of a Covid19_cases Dataset from Kaggle.com using certain Python Libraries.
 <li> A Linear Regression Model is created that is capable of predicting the number of covid cases.
 <li> The model is able to give a quite accurate prediction of new Covid19 cases.
  <li> The created model is also evaluated and checked for accuracy.
