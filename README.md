@@ -1,7 +1,7 @@
 # Covid-19-Outbreak-Prediction
 <h3><b>Coronavirus Outbreak Prediction using Machine Learning</b></h3>
 <h4> This project aims at predicting the daily number of Corona Virus cases. This project is built using Linear Regression model in Supervised Machine Learning.
-<br>
+<br><br>
 This Project includes-
 <br> <br>
 <ul>
